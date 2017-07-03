@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6AA75AE3-DD54-49C9-B3C0-01942ECDE49F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PocketSurfing</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1b23e2cc-6122-45e6-9b2f-ec9cc862335d++1</key>
+		<string>http://www.svnchina.com/svn/lanouhn17/PocketSurfing</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PocketSurfing.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1b23e2cc-6122-45e6-9b2f-ec9cc862335d++1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>1b23e2cc-6122-45e6-9b2f-ec9cc862335d++1</key>
+		<string>http://www.svnchina.com/svn/lanouhn17</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://www.svnchina.com/svn/lanouhn17/PocketSurfing/PocketSurfing.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1b23e2cc-6122-45e6-9b2f-ec9cc862335d++1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1b23e2cc-6122-45e6-9b2f-ec9cc862335d++1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PocketSurfing</string>
+		</dict>
+	</array>
+</dict>
+</plist>
